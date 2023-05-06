@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](gyanu-mayank-0b4019203/) 
 <a href="https://www.linkedin.com/in/gyanu-mayank-0b4019203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/gyanu-mayank-0b4019203/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/winner32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/winner32" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/25mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/25mayank" height="30" width="40" /></a>

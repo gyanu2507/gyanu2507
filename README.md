@@ -21,4 +21,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://memeapi.in-maa-1.linodeobjects.com/memeapi/memeapi/memes/102.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=IIPWSU3QNJWGPL0S9N5H%2F20240303%2Fin-maa-1%2Fs3%2Faws4_request&X-Amz-Date=20240303T212719Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b5a9305565cc2166b4c3478cd695929fa195da80b5fade46113bcccaae7a3946)https://memeapi.in-maa-1.linodeobjects.com/memeapi/memeapi/memes/102.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=IIPWSU3QNJWGPL0S9N5H%2F20240303%2Fin-maa-1%2Fs3%2Faws4_request&X-Amz-Date=20240303T212719Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b5a9305565cc2166b4c3478cd695929fa195da80b5fade46113bcccaae7a3946" width="512px"/>

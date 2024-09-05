@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gyanu 👀 I’m interested in Competitive Programming 🌱 I’m currently pursuing my BTech Degree from NIT Patna in Computer Science and Engineering 📫 I am currently learning web development <br><br>* 🌍  I'm based in Patna,Bihar<br>* ✉️  You can contact me at [Mail](mailto:viratmayank2507@gmail.com)<br>* 🧠  I'm learning Web Development<br>
+👋 Hi, I'm Gyanu 👀 I’m interested in Competitive Programming 🌱 I pursued my BTech Degree from NIT Patna in Computer Science and Engineering 📫 I am currently learning web development and Machine Learning <br><br>* 🌍  I'm based in Patna,Bihar<br>* ✉️  You can contact me at [Mail](mailto:viratmayank2507@gmail.com)<br>* 🧠  I'm learning Web Development<br>
 
 
 ## 🌐 Socials:

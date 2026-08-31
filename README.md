@@ -1,6 +1,6 @@
 # Gyanu Mayank
 
-**Generative AI Engineer at Accenture.** I build RAG systems and multi-cloud AI pipelines — and I spend a good part of my week fixing bugs in the open-source libraries the rest of us build on.
+**Generative AI Engineer.** I build RAG systems and multi-cloud AI pipelines — and I spend a good part of my week fixing bugs in the open-source libraries the rest of us build on.
 
 B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 

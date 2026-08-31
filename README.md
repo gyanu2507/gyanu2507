@@ -1,8 +1,8 @@
 # Gyanu Mayank
 
-**Backend & AI engineer.** I work on Python services, LLM/RAG pipelines, and cloud infrastructure — and I spend a lot of my time fixing bugs in the open-source libraries that the rest of us build on.
+**Generative AI Engineer at Accenture.** I build RAG systems and multi-cloud AI pipelines — and I spend a good part of my week fixing bugs in the open-source libraries the rest of us build on.
 
-B.Tech in Computer Science, NIT Patna. Based in Patna, India.
+B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanu-mayank-0b4019203/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viratmayank2507@gmail.com)
@@ -38,22 +38,23 @@ Currently open, across languages and ecosystems:
 
 ## What I Work On
 
-- **LLM applications** — RAG pipelines, embeddings and retrieval, inference serving
+- **RAG systems** — retrieval pipelines over vector databases, tuned for precision and grounded answers
+- **LLM serving** — deploying and optimising frontier models for low-latency inference at scale
+- **Multi-cloud infrastructure** — automated deployments across AWS, Azure and GCP with Terraform
 - **Backend systems** — Python APIs, service boundaries, correctness under failure
-- **Cloud & infrastructure** — deployment and IaC on AWS, containerised workloads
 - **Algorithms** — active competitive programmer; it is where the debugging instinct comes from
 
 ## Tech
 
-**Languages** — Python, C++, JavaScript / TypeScript, C, Go (reading and patching)
+**Languages** — Python, C++, JavaScript / TypeScript, C, Java, Go (reading and patching)
 
-**AI / ML** — LLM APIs, RAG, embeddings and vector search, inference pipelines
+**AI / ML** — LLM APIs, RAG, embeddings and vector search, inference optimisation
 
-**Backend** — REST APIs, MongoDB, MySQL
+**Cloud & DevOps** — AWS, Azure, GCP, Terraform, Docker, CI/CD
 
-**Frontend** — React, React Native, Tailwind CSS
+**Backend** — REST APIs, Node.js, MongoDB, MySQL
 
-**Infra** — AWS, Docker, Terraform, GitHub Actions
+**Frontend** — React, Tailwind CSS
 
 ---
 
@@ -65,4 +66,4 @@ Currently open, across languages and ecosystems:
 | [Codeforces](https://codeforces.com/profile/25mayank) | Specialist — peak rating 1455 |
 | [LeetCode](https://leetcode.com/25mayank/) | Knight — 1000+ problems solved |
 
-Ranked **1264** in Google Kick Start 2022 Round H · Finalist, TechGig Code Gladiators 2023
+Rank **44 of 15,500** at Scaler HACKX 2021 · Rank **1264** in Google Kick Start 2022 Round H · Finalist, TechGig Code Gladiators 2023 (150,000+ entrants) · Finalist, NIT Silchar inter-college contest 2022

@@ -32,7 +32,7 @@ Currently open, across languages and ecosystems:
 - **Go** — [go-yaml](https://github.com/goccy/go-yaml/pull/926) (inline key comments no longer produce invalid YAML) and [#927](https://github.com/goccy/go-yaml/pull/927) (value-less anchors at end of stream)
 - **Python** — [psutil](https://github.com/giampaolo/psutil/pull/2986) · [attrs](https://github.com/python-attrs/attrs/pull/1614) · [Sphinx](https://github.com/sphinx-doc/sphinx/pull/14654) · [Alembic](https://github.com/sqlalchemy/alembic/pull/1861) · [spaCy](https://github.com/explosion/spaCy/pull/14022) · [pydantic-settings](https://github.com/pydantic/pydantic-settings/pull/949) · [LiteLLM](https://github.com/BerriAI/litellm/pull/37927) · [mlx-lm](https://github.com/ml-explore/mlx-lm/pull/1777)
 
-[All merged PRs →](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests) &nbsp;·&nbsp; [everything I've opened →](https://github.com/search?q=is%3Apr+author%3Agyanu2507&type=pullrequests)
+[All merged pull requests →](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests)
 
 ---
 

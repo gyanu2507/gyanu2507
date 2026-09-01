@@ -33,6 +33,7 @@ Merged fixes in production libraries — parsers, servers, tracing, CLI, and doc
 
 ## Selected work
 
+- **[Workspace Brief](https://github.com/gyanu2507/workspace-brief)** — ask a live GitHub workspace what changed: planner, tool loop, BM25, citations, FastAPI, Docker
 - **[Advanced RAG](https://github.com/gyanu2507/advanced-rag)** — document Q&A over PDF, DOCX, CSV and more: chunking, auth, Streamlit UI, Docker
 - **[LinkedIn Posts Generator](https://github.com/gyanu2507/Linkedin-Posts-Generator)** — few-shot post generation with Python, Streamlit, and Groq
 - **[Llama 2 Chat](https://github.com/gyanu2507/Chatbot-Llama)** — streamed chat over 7B / 13B / 70B with tunable inference ([demo](https://gyanu-chatbot-llama.streamlit.app))

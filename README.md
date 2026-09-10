@@ -1,6 +1,6 @@
 # Gyanu Mayank
 
-Generative AI engineer working on RAG, LLM serving, and multi-cloud infrastructure. I send small, tested patches upstream in Python, Go, and TypeScript libraries I actually use.
+Generative AI engineer working on RAG, LLM serving, and multi-cloud infrastructure. I send tested patches upstream in Python, Go, and TypeScript libraries I actually use.
 
 B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
@@ -8,18 +8,17 @@ B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
 ## Open source
 
-Merged bugfixes in libraries people actually run. Star counts are live. The full list is [the merged PR search](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
+Merged patches that change library behavior. Star counts are live. The rest is on [the merged PR search](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
 
-| Project | Fix |
+| Project | Change |
 | --- | --- |
-| [MarkItDown](https://github.com/microsoft/markitdown) [![stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social)](https://github.com/microsoft/markitdown) | Keep strikethrough from `<strike>` and CSS `line-through` ([#2342](https://github.com/microsoft/markitdown/pull/2342)) |
-| [Haystack](https://github.com/deepset-ai/haystack) [![stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack) | Error when a type router reuses a reserved output name ([#12624](https://github.com/deepset-ai/haystack/pull/12624)) |
-| [marked](https://github.com/markedjs/marked) [![stars](https://img.shields.io/github/stars/markedjs/marked?style=social)](https://github.com/markedjs/marked) | Case-fold reference link labels so `[ẞ]` matches `[SS]:` ([#4077](https://github.com/markedjs/marked/pull/4077)) |
+| [pydantic-settings](https://github.com/pydantic/pydantic-settings) [![stars](https://img.shields.io/github/stars/pydantic/pydantic-settings?style=social)](https://github.com/pydantic/pydantic-settings) | New `CliVariadicArg` type for named variadic CLI options ([#949](https://github.com/pydantic/pydantic-settings/pull/949)) |
+| [Logfire](https://github.com/pydantic/logfire) [![stars](https://img.shields.io/github/stars/pydantic/logfire?style=social)](https://github.com/pydantic/logfire) | Tail sampling keeps the buffer until every span in the trace has ended ([#2308](https://github.com/pydantic/logfire/pull/2308)) |
+| [Waitress](https://github.com/Pylons/waitress) [![stars](https://img.shields.io/github/stars/Pylons/waitress?style=social)](https://github.com/Pylons/waitress) | Keep serving when `select` hits `EBADF` after a client socket closes ([#506](https://github.com/Pylons/waitress/pull/506)) |
+| [Python-Markdown](https://github.com/Python-Markdown/markdown) [![stars](https://img.shields.io/github/stars/Python-Markdown/markdown?style=social)](https://github.com/Python-Markdown/markdown) | Parse inline code by walking backtick spans instead of a regex ([#1625](https://github.com/Python-Markdown/markdown/pull/1625)) |
 | [Gunicorn](https://github.com/benoitc/gunicorn) [![stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social)](https://github.com/benoitc/gunicorn) | Stop writing a 500 over a response that already started ([#3715](https://github.com/benoitc/gunicorn/pull/3715)) |
-| [RQ](https://github.com/rq/rq) [![stars](https://img.shields.io/github/stars/rq/rq?style=social)](https://github.com/rq/rq) | Don't mark a finished job as abandoned leftover ([#2466](https://github.com/rq/rq/pull/2466)) |
-| [mlx-lm](https://github.com/ml-explore/mlx-lm) [![stars](https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social)](https://github.com/ml-explore/mlx-lm) | Rebind `BatchKVCache` offset instead of mutating in place ([#1848](https://github.com/ml-explore/mlx-lm/pull/1848)) |
-| [sentry-python](https://github.com/getsentry/sentry-python) [![stars](https://img.shields.io/github/stars/getsentry/sentry-python?style=social)](https://github.com/getsentry/sentry-python) | Skip formatting log records when Sentry logs are off ([#7422](https://github.com/getsentry/sentry-python/pull/7422)) |
-| [Python-Markdown](https://github.com/Python-Markdown/markdown) [![stars](https://img.shields.io/github/stars/Python-Markdown/markdown?style=social)](https://github.com/Python-Markdown/markdown) | Parse inline code by walking spans, not a brittle regex ([#1625](https://github.com/Python-Markdown/markdown/pull/1625)) |
+| [mlx-lm](https://github.com/ml-explore/mlx-lm) [![stars](https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social)](https://github.com/ml-explore/mlx-lm) | Prefill tokens reach logits processors ([#1777](https://github.com/ml-explore/mlx-lm/pull/1777)); rebind `BatchKVCache` offset instead of mutating it ([#1848](https://github.com/ml-explore/mlx-lm/pull/1848)) |
+| [FastMCP](https://github.com/punkpeye/fastmcp) [![stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=social)](https://github.com/punkpeye/fastmcp) | Send `WWW-Authenticate` on 401 when `authenticate()` fails with no OAuth config ([#358](https://github.com/punkpeye/fastmcp/pull/358)) |
 
 ## Selected work
 

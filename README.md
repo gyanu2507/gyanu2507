@@ -1,6 +1,6 @@
 # Gyanu Mayank
 
-Generative AI engineer working on RAG, LLM serving, and multi-cloud infrastructure. Upstream work spans Python, Go, and TypeScript codebases: inference, retrieval, HTTP servers, tracing, parsers, CLIs, and protocols.
+Generative AI engineer. Agentic systems, spec-driven SDLC with GitHub Spec Kit, RAG, MCP, and LLM serving. Upstream work spans Python, Go, and TypeScript codebases.
 
 B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
@@ -8,10 +8,12 @@ B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
 ## Open source
 
-Merged work across inference, retrieval, serving, tracing, messaging, parsing, CLIs, and protocols. Star counts are live. Full list: [merged pull requests](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
+Merged work across spec-driven SDLC, MCP, inference, retrieval, serving, tracing, messaging, and parsers. Star counts are live. Full list: [merged pull requests](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
 
 | Codebase | Change |
 | --- | --- |
+| [Spec Kit](https://github.com/github/spec-kit) [![stars](https://img.shields.io/github/stars/github/spec-kit?style=social)](https://github.com/github/spec-kit) | Drop the unused `scope` input from the bundled Full SDD Cycle workflow ([#4401](https://github.com/github/spec-kit/pull/4401)); assess clarifications edit the artifact in place ([#4402](https://github.com/github/spec-kit/pull/4402)) |
+| [FastMCP](https://github.com/punkpeye/fastmcp) [![stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=social)](https://github.com/punkpeye/fastmcp) | Send `WWW-Authenticate` on 401 when `authenticate()` fails with no OAuth config ([#358](https://github.com/punkpeye/fastmcp/pull/358)) |
 | [mlx-lm](https://github.com/ml-explore/mlx-lm) [![stars](https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social)](https://github.com/ml-explore/mlx-lm) | Prefill tokens reach logits processors ([#1777](https://github.com/ml-explore/mlx-lm/pull/1777)); rebind `BatchKVCache` offset instead of mutating it ([#1848](https://github.com/ml-explore/mlx-lm/pull/1848)) |
 | [Haystack](https://github.com/deepset-ai/haystack) [![stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack) | Type routers reject reserved output names instead of failing later ([#12624](https://github.com/deepset-ai/haystack/pull/12624)) |
 | [Gunicorn](https://github.com/benoitc/gunicorn) [![stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social)](https://github.com/benoitc/gunicorn) | Stop writing a 500 over a response that already started ([#3715](https://github.com/benoitc/gunicorn/pull/3715)) |
@@ -20,11 +22,10 @@ Merged work across inference, retrieval, serving, tracing, messaging, parsing, C
 | [pydantic-settings](https://github.com/pydantic/pydantic-settings) [![stars](https://img.shields.io/github/stars/pydantic/pydantic-settings?style=social)](https://github.com/pydantic/pydantic-settings) | New `CliVariadicArg` type for named variadic CLI options ([#949](https://github.com/pydantic/pydantic-settings/pull/949)) |
 | [Python-Markdown](https://github.com/Python-Markdown/markdown) [![stars](https://img.shields.io/github/stars/Python-Markdown/markdown?style=social)](https://github.com/Python-Markdown/markdown) | Parse inline code by walking backtick spans instead of a regex ([#1625](https://github.com/Python-Markdown/markdown/pull/1625)) |
 | [marked](https://github.com/markedjs/marked) [![stars](https://img.shields.io/github/stars/markedjs/marked?style=social)](https://github.com/markedjs/marked) | Case-fold reference link labels so `[ẞ]` matches `[SS]:` ([#4077](https://github.com/markedjs/marked/pull/4077)) |
-| [FastMCP](https://github.com/punkpeye/fastmcp) [![stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=social)](https://github.com/punkpeye/fastmcp) | Send `WWW-Authenticate` on 401 when `authenticate()` fails with no OAuth config ([#358](https://github.com/punkpeye/fastmcp/pull/358)) |
 
 ## Selected work
 
-- **[Workspace Brief](https://github.com/gyanu2507/workspace-brief):** ask a live GitHub workspace what changed. Planner, tool loop, BM25, citations, FastAPI, Docker.
+- **[Workspace Brief](https://github.com/gyanu2507/workspace-brief):** an agent over a live GitHub workspace. Planner, tool loop, BM25, citations, FastAPI, Docker.
 - **[Advanced RAG](https://github.com/gyanu2507/advanced-rag):** document Q&A over PDF, DOCX, CSV and more. Chunking, auth, Streamlit UI, Docker.
 - **[LinkedIn Posts Generator](https://github.com/gyanu2507/Linkedin-Posts-Generator):** few-shot post generation with Python, Streamlit, and Groq.
 - **[Llama 2 Chat](https://github.com/gyanu2507/Chatbot-Llama):** streamed chat over 7B / 13B / 70B with tunable inference ([demo](https://gyanu-chatbot-llama.streamlit.app)).
@@ -32,7 +33,7 @@ Merged work across inference, retrieval, serving, tracing, messaging, parsing, C
 
 ## Stack
 
-Python, C++, JavaScript / TypeScript, C, Java, Go. RAG, embeddings, vector search, LLM APIs. AWS, Azure, GCP, Terraform, Docker. REST APIs, Node.js, MongoDB, MySQL. React, Tailwind CSS.
+Python, C++, JavaScript / TypeScript, C, Java, Go. Agentic workflows, spec-driven SDLC, MCP, RAG, embeddings, vector search, LLM APIs. AWS, Azure, GCP, Terraform, Docker. REST APIs, Node.js, MongoDB, MySQL. React, Tailwind CSS.
 
 ## Competitive programming
 

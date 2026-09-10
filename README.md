@@ -1,6 +1,6 @@
 # Gyanu Mayank
 
-Generative AI engineer working on RAG, LLM serving, and multi-cloud infrastructure. I send tested patches upstream in Python, Go, and TypeScript libraries I actually use.
+Generative AI engineer working on RAG, LLM serving, and multi-cloud infrastructure. Upstream work spans Python, Go, and TypeScript codebases: inference, retrieval, HTTP servers, tracing, parsers, CLIs, and protocols.
 
 B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
@@ -8,16 +8,18 @@ B.Tech in Computer Science, NIT Patna. Based in Pune, India.
 
 ## Open source
 
-Merged patches that change library behavior. Star counts are live. The rest is on [the merged PR search](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
+Merged work across inference, retrieval, serving, tracing, messaging, parsing, CLIs, and protocols. Star counts are live. Full list: [merged pull requests](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
 
-| Project | Change |
+| Codebase | Change |
 | --- | --- |
-| [pydantic-settings](https://github.com/pydantic/pydantic-settings) [![stars](https://img.shields.io/github/stars/pydantic/pydantic-settings?style=social)](https://github.com/pydantic/pydantic-settings) | New `CliVariadicArg` type for named variadic CLI options ([#949](https://github.com/pydantic/pydantic-settings/pull/949)) |
-| [Logfire](https://github.com/pydantic/logfire) [![stars](https://img.shields.io/github/stars/pydantic/logfire?style=social)](https://github.com/pydantic/logfire) | Tail sampling keeps the buffer until every span in the trace has ended ([#2308](https://github.com/pydantic/logfire/pull/2308)) |
-| [Waitress](https://github.com/Pylons/waitress) [![stars](https://img.shields.io/github/stars/Pylons/waitress?style=social)](https://github.com/Pylons/waitress) | Keep serving when `select` hits `EBADF` after a client socket closes ([#506](https://github.com/Pylons/waitress/pull/506)) |
-| [Python-Markdown](https://github.com/Python-Markdown/markdown) [![stars](https://img.shields.io/github/stars/Python-Markdown/markdown?style=social)](https://github.com/Python-Markdown/markdown) | Parse inline code by walking backtick spans instead of a regex ([#1625](https://github.com/Python-Markdown/markdown/pull/1625)) |
-| [Gunicorn](https://github.com/benoitc/gunicorn) [![stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social)](https://github.com/benoitc/gunicorn) | Stop writing a 500 over a response that already started ([#3715](https://github.com/benoitc/gunicorn/pull/3715)) |
 | [mlx-lm](https://github.com/ml-explore/mlx-lm) [![stars](https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social)](https://github.com/ml-explore/mlx-lm) | Prefill tokens reach logits processors ([#1777](https://github.com/ml-explore/mlx-lm/pull/1777)); rebind `BatchKVCache` offset instead of mutating it ([#1848](https://github.com/ml-explore/mlx-lm/pull/1848)) |
+| [Haystack](https://github.com/deepset-ai/haystack) [![stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack) | Type routers reject reserved output names instead of failing later ([#12624](https://github.com/deepset-ai/haystack/pull/12624)) |
+| [Gunicorn](https://github.com/benoitc/gunicorn) [![stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social)](https://github.com/benoitc/gunicorn) | Stop writing a 500 over a response that already started ([#3715](https://github.com/benoitc/gunicorn/pull/3715)) |
+| [Logfire](https://github.com/pydantic/logfire) [![stars](https://img.shields.io/github/stars/pydantic/logfire?style=social)](https://github.com/pydantic/logfire) | Tail sampling keeps the buffer until every span in the trace has ended ([#2308](https://github.com/pydantic/logfire/pull/2308)) |
+| [Kombu](https://github.com/celery/kombu) [![stars](https://img.shields.io/github/stars/celery/kombu?style=social)](https://github.com/celery/kombu) | `fileno()` on a closed transport raises `ValueError` instead of crashing ([#2623](https://github.com/celery/kombu/pull/2623)) |
+| [pydantic-settings](https://github.com/pydantic/pydantic-settings) [![stars](https://img.shields.io/github/stars/pydantic/pydantic-settings?style=social)](https://github.com/pydantic/pydantic-settings) | New `CliVariadicArg` type for named variadic CLI options ([#949](https://github.com/pydantic/pydantic-settings/pull/949)) |
+| [Python-Markdown](https://github.com/Python-Markdown/markdown) [![stars](https://img.shields.io/github/stars/Python-Markdown/markdown?style=social)](https://github.com/Python-Markdown/markdown) | Parse inline code by walking backtick spans instead of a regex ([#1625](https://github.com/Python-Markdown/markdown/pull/1625)) |
+| [marked](https://github.com/markedjs/marked) [![stars](https://img.shields.io/github/stars/markedjs/marked?style=social)](https://github.com/markedjs/marked) | Case-fold reference link labels so `[ẞ]` matches `[SS]:` ([#4077](https://github.com/markedjs/marked/pull/4077)) |
 | [FastMCP](https://github.com/punkpeye/fastmcp) [![stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=social)](https://github.com/punkpeye/fastmcp) | Send `WWW-Authenticate` on 401 when `authenticate()` fails with no OAuth config ([#358](https://github.com/punkpeye/fastmcp/pull/358)) |
 
 ## Selected work

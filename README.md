@@ -6,42 +6,4 @@ I work on AI agents and contribute to open source.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanu-mayank-0b4019203/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viratmayank2507@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square)](https://portfolio-gyanu.vercel.app) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/25mayank) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/25mayank/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/winner32)
 
-## Open source
 
-Merged pull requests. Star counts come from GitHub. Full list: [merged pull requests](https://github.com/search?q=is%3Apr+author%3Agyanu2507+is%3Amerged&type=pullrequests).
-
-| Codebase | What I fixed |
-| --- | --- |
-| [AG-UI](https://github.com/ag-ui-protocol/ag-ui) [![stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=social)](https://github.com/ag-ui-protocol/ag-ui) | After a Mastra pause, send the tool-call events so the UI still has the tool ([#2715](https://github.com/ag-ui-protocol/ag-ui/pull/2715)). Import watsonx FastAPI helpers only when they are used ([#2747](https://github.com/ag-ui-protocol/ag-ui/pull/2747)) |
-| [Spec Kit](https://github.com/github/spec-kit) [![stars](https://img.shields.io/github/stars/github/spec-kit?style=social)](https://github.com/github/spec-kit) | Bound `speckit.clarify` planning deferral to implementation details ([#4507](https://github.com/github/spec-kit/pull/4507)). Remove an unused `scope` input from the bundled workflow ([#4401](https://github.com/github/spec-kit/pull/4401)). Assess-clarifications now edits the spec file in place ([#4402](https://github.com/github/spec-kit/pull/4402)) |
-| [FastMCP](https://github.com/punkpeye/fastmcp) [![stars](https://img.shields.io/github/stars/punkpeye/fastmcp?style=social)](https://github.com/punkpeye/fastmcp) | Return `WWW-Authenticate` on 401 when login fails and OAuth is not set up ([#358](https://github.com/punkpeye/fastmcp/pull/358)) |
-| [mlx-lm](https://github.com/ml-explore/mlx-lm) [![stars](https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social)](https://github.com/ml-explore/mlx-lm) | Stop `mlx_lm.server` leaking the previous model on swap ([#1837](https://github.com/ml-explore/mlx-lm/pull/1837)). Reject unsupported compressed-tensors formats instead of treating them as 4-bit affine ([#1877](https://github.com/ml-explore/mlx-lm/pull/1877)). Prefill tokens are visible to logits processors ([#1777](https://github.com/ml-explore/mlx-lm/pull/1777)) |
-| [Haystack](https://github.com/deepset-ai/haystack) [![stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack) | Type routers error if you reuse a reserved output name ([#12624](https://github.com/deepset-ai/haystack/pull/12624)) |
-| [Locust](https://github.com/locustio/locust) [![stars](https://img.shields.io/github/stars/locustio/locust?style=social)](https://github.com/locustio/locust) | Compute Med. with the same rank as the 50% percentile ([#3508](https://github.com/locustio/locust/pull/3508)) |
-| [NiceGUI](https://github.com/zauberzeug/nicegui) [![stars](https://img.shields.io/github/stars/zauberzeug/nicegui?style=social)](https://github.com/zauberzeug/nicegui) | Drop a half-built SubPages route if construction fails, so it does not stay registered ([#6323](https://github.com/zauberzeug/nicegui/pull/6323)) |
-| [Sentry](https://github.com/getsentry/sentry-python) [![stars](https://img.shields.io/github/stars/getsentry/sentry-python?style=social)](https://github.com/getsentry/sentry-python) | Skip formatting log records when Sentry logs are off ([#7422](https://github.com/getsentry/sentry-python/pull/7422)) |
-| [Gunicorn](https://github.com/benoitc/gunicorn) [![stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social)](https://github.com/benoitc/gunicorn) | Do not write a 500 on top of a response that already started ([#3715](https://github.com/benoitc/gunicorn/pull/3715)) |
-| [Python-Markdown](https://github.com/Python-Markdown/markdown) [![stars](https://img.shields.io/github/stars/Python-Markdown/markdown?style=social)](https://github.com/Python-Markdown/markdown) | Parse inline code by walking backtick spans instead of a regex ([#1625](https://github.com/Python-Markdown/markdown/pull/1625)). Honor tags added to `block_level_elements` after `md_in_html` loads ([#1629](https://github.com/Python-Markdown/markdown/pull/1629)) |
-| [Marked](https://github.com/markedjs/marked) [![stars](https://img.shields.io/github/stars/markedjs/marked?style=social)](https://github.com/markedjs/marked) | Case-fold reference link labels so `[text][Label]` matches `[LABEL]: url` ([#4077](https://github.com/markedjs/marked/pull/4077)) |
-| [Logfire](https://github.com/pydantic/logfire) [![stars](https://img.shields.io/github/stars/pydantic/logfire?style=social)](https://github.com/pydantic/logfire) | Keep tail-sampling buffers until every span in the trace has ended ([#2308](https://github.com/pydantic/logfire/pull/2308)) |
-
-## Selected work
-
-- **[Workspace Brief](https://github.com/gyanu2507/workspace-brief):** an agent over a live GitHub workspace. Planner, tool loop, BM25, citations, FastAPI, MCP, Docker.
-- **[Advanced RAG](https://github.com/gyanu2507/advanced-rag):** document Q&A over PDF, DOCX, CSV and more. Chunking, auth, Streamlit UI, Docker.
-- **[Llama 2 Chat](https://github.com/gyanu2507/Chatbot-Llama):** streamed chat over 7B / 13B / 70B with tunable inference ([demo](https://gyanu-chatbot-llama.streamlit.app)).
-- **[LinkedIn Posts Generator](https://github.com/gyanu2507/Linkedin-Posts-Generator):** few-shot post generation with Python, Streamlit, and Groq.
-
-## Stack
-
-Python, TypeScript, C++, Go. Agent loops, MCP, HITL resume, spec-driven SDLC, RAG, embeddings, vector search. AWS, Azure, GCP, Terraform, Docker.
-
-## Competitive programming
-
-| Platform | Standing |
-| --- | --- |
-| [CodeChef](https://www.codechef.com/users/winner32) | 4★, peak 1917 |
-| [Codeforces](https://codeforces.com/profile/25mayank) | Specialist, peak 1455 |
-| [LeetCode](https://leetcode.com/25mayank/) | Knight, 1000+ problems |
-
-Scaler HACKX 2021: **44 / 15,500**. Google Kick Start 2022 Round H: **1264**. TechGig Code Gladiators 2023 finalist.

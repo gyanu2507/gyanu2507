@@ -1,6 +1,6 @@
 # Gyanu Mayank
 
-Independent researcher working on **agent evaluation** and agentic systems.
+Independent researcher working on agent evaluation and agentic systems.
 
 B.Tech, Computer Science and Engineering, National Institute of Technology Patna. Based in Pune, India.
 

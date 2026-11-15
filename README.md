@@ -13,7 +13,6 @@ Also works on eval inside product agent loops (draft → score → revise) and r
 ## Projects
 
 - [agent-eval-suite](https://github.com/gyanu2507/agent-eval-suite): reference tasks and the technical report on fake deltas in agent evals. One-command repro.
-- [workspace-brief](https://github.com/gyanu2507/workspace-brief): brief a live GitHub workspace with a planner, citations, memory and JSON traces.
 - [brief-desk](https://github.com/gyanu2507/brief-desk): CopilotKit + AG-UI chat desk with MCP tools for workspace and corpus briefing.
 
 ## Open source
